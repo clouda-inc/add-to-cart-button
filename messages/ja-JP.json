@@ -9,5 +9,7 @@
   "admin/editor.add-to-cart.text.title": "ボタンテキスト",
   "admin/editor.add-to-cart.text.description": "ボタンのテキストです。例. 「カートに追加する」",
   "admin/editor.add-to-cart.text-unavailable.title": "ボタンテキストは利用できません",
-  "admin/editor.add-to-cart.text-unavailable.description": "製品が入手できない時のボタンテキストです。"
+  "admin/editor.add-to-cart.text-unavailable.description": "製品が入手できない時のボタンテキストです。",
+  "admin/editor.add-to-cart.isOneClickBuy.title": "ワンクリック購入を有効にする",
+  "admin/editor.add-to-cart.isOneClickBuy.description": "ワンクリック購入を有効にする場合はtrueに設定し、それ以外の場合はfalseに設定してください"
 }

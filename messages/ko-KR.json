@@ -9,5 +9,7 @@
   "admin/editor.add-to-cart.text.title": "버튼 텍스트",
   "admin/editor.add-to-cart.text.description": "버튼의 텍스트 (예: \"장바구니에 담기\")",
   "admin/editor.add-to-cart.text-unavailable.title": "버튼 텍스트를 사용할 수 없음",
-  "admin/editor.add-to-cart.text-unavailable.description": "제품을 사용할 수 없는 경우 버튼 텍스트입니다."
+  "admin/editor.add-to-cart.text-unavailable.description": "제품을 사용할 수 없는 경우 버튼 텍스트입니다.",
+  "admin/editor.add-to-cart.isOneClickBuy.title": "원 클릭 구매 활성화",
+  "admin/editor.add-to-cart.isOneClickBuy.description": "한 번의 클릭으로 구매를 활성화하려면 true로 설정하고, 그렇지 않으면 false로 설정하십시오"
 }

@@ -9,5 +9,7 @@
   "admin/editor.add-to-cart.text.title": "ข้อความบนปุ่ม",
   "admin/editor.add-to-cart.text.description": "ข้อความบนปุ่ม เช่น \"เพิมลงในรถเข็น\"",
   "admin/editor.add-to-cart.text-unavailable.title": "ไม่มีข้อความบนปุ่ม",
-  "admin/editor.add-to-cart.text-unavailable.description": "ข้อความบนปุ่มเมื่อผลิตถัณฑ์ไม่พร้อมจำหน่าย"
+  "admin/editor.add-to-cart.text-unavailable.description": "ข้อความบนปุ่มเมื่อผลิตถัณฑ์ไม่พร้อมจำหน่าย",
+  "admin/editor.add-to-cart.isOneClickBuy.title": "เปิดใช้งานการซื้อด้วยคลิกเดียว",
+  "admin/editor.add-to-cart.isOneClickBuy.description": "หากคุณต้องการเปิดใช้งานการซื้อด้วยคลิกเดียว ให้ตั้งค่าเป็น true มิฉะนั้นตั้งค่าเป็น false"
 }

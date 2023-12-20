@@ -9,5 +9,7 @@
   "admin/editor.add-to-cart.text.title": "Text buton",
   "admin/editor.add-to-cart.text.description": "Textul butonului, de exemplu „Adaugă în coș”",
   "admin/editor.add-to-cart.text-unavailable.title": "Text buton indisponibil",
-  "admin/editor.add-to-cart.text-unavailable.description": "Textul butonului atunci când un produs e indisponibil."
+  "admin/editor.add-to-cart.text-unavailable.description": "Textul butonului atunci când un produs e indisponibil.",
+  "admin/editor.add-to-cart.isOneClickBuy.title": "Activare cumpărare cu un singur clic",
+  "admin/editor.add-to-cart.isOneClickBuy.description": "Dacă doriți să activați cumpărarea cu un singur clic, setați la adevărat; altfel, setați la fals"
 }

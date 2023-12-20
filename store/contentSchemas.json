@@ -12,6 +12,11 @@
           "title": "admin/editor.add-to-cart.text-unavailable.title",
           "description": "admin/editor.add-to-cart.text-unavailable.description",
           "$ref": "app:vtex.native-types#/definitions/text"
+        },
+        "isOneClickBuy": {
+          "title": "admin/editor.add-to-cart.isOneClickBuy.title",
+          "description": "admin/editor.add-to-cart.isOneClickBuy.description",
+          "type": "boolean"
         }
       }
     }

@@ -9,5 +9,7 @@
   "admin/editor.add-to-cart.text.title": "Text der Schaltfläche",
   "admin/editor.add-to-cart.text.description": "Text der Schaltfläche, z. B. \"In den Warenkorb\"",
   "admin/editor.add-to-cart.text-unavailable.title": "Schaltflächentext nicht verfügbar",
-  "admin/editor.add-to-cart.text-unavailable.description": "Schaltflächentext, wenn das Produkt nicht verfügbar ist."
+  "admin/editor.add-to-cart.text-unavailable.description": "Schaltflächentext, wenn das Produkt nicht verfügbar ist.",
+  "admin/editor.add-to-cart.isOneClickBuy.title": "Ein-Klick-Kauf aktivieren",
+  "admin/editor.add-to-cart.isOneClickBuy.description": "Wenn Sie den Ein-Klick-Kauf aktivieren möchten, setzen Sie es auf true, ansonsten auf false"
 }

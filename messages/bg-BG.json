@@ -9,5 +9,7 @@
   "admin/editor.add-to-cart.text.title": "Текст на бутона",
   "admin/editor.add-to-cart.text.description": "Текст на бутона, напр. „Добавяне в количката“",
   "admin/editor.add-to-cart.text-unavailable.title": "Не е наличен текст на бутона",
-  "admin/editor.add-to-cart.text-unavailable.description": "Текст на бутона, когато продуктът не е наличен."
+  "admin/editor.add-to-cart.text-unavailable.description": "Текст на бутона, когато продуктът не е наличен.",
+  "admin/editor.add-to-cart.isOneClickBuy.title": "Активиране на покупка с едно кликване",
+  "admin/editor.add-to-cart.isOneClickBuy.description": "Ако искате да активирате опцията за покупка с едно кликване, задайте като верно, в противен случай задайте като грешно"
 }

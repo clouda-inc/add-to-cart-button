@@ -9,5 +9,7 @@
   "admin/editor.add-to-cart.text.title": "Testo del pulsante",
   "admin/editor.add-to-cart.text.description": "Testo del pulsante, ad es. \"Aggiungi al carrello\"",
   "admin/editor.add-to-cart.text-unavailable.title": "Testo del pulsante non disponibile",
-  "admin/editor.add-to-cart.text-unavailable.description": "Testo del pulsante quando il prodotto non è disponibile."
+  "admin/editor.add-to-cart.text-unavailable.description": "Testo del pulsante quando il prodotto non è disponibile.",
+  "admin/editor.add-to-cart.isOneClickBuy.title": "Attiva acquisto con un solo clic",
+  "admin/editor.add-to-cart.isOneClickBuy.description": "Se è necessario attivare l'acquisto con un solo clic, impostare su vero; altrimenti, impostare su falso"
 }

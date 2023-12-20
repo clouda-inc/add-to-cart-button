@@ -9,5 +9,7 @@
   "admin/editor.add-to-cart.text.title": "Tekst knapp",
   "admin/editor.add-to-cart.text.description": "Tekst på knappen, f. eks. \"Legg i handlekurv\"",
   "admin/editor.add-to-cart.text-unavailable.title": "Tekst på knappen er ikke tilgjengelig",
-  "admin/editor.add-to-cart.text-unavailable.description": "Tekst på knappen når produktet er utilgjengelig."
+  "admin/editor.add-to-cart.text-unavailable.description": "Tekst på knappen når produktet er utilgjengelig.",
+  "admin/editor.add-to-cart.isOneClickBuy.title": "Aktiver kjøp med ett klikk",
+  "admin/editor.add-to-cart.isOneClickBuy.description": "Hvis du trenger å aktivere kjøp med ett klikk, sett som true, ellers som false"
 }

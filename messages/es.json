@@ -9,5 +9,7 @@
   "admin/editor.add-to-cart.text.title": "Texto del botón",
   "admin/editor.add-to-cart.text.description": "Texto del botón, p. ej.: \"Agregar al carrito\"",
   "admin/editor.add-to-cart.text-unavailable.title": "Texto del botón (no disponible)",
-  "admin/editor.add-to-cart.text-unavailable.description": "Texto del botón cuando el producto no está disponible."
+  "admin/editor.add-to-cart.text-unavailable.description": "Texto del botón cuando el producto no está disponible.",
+  "admin/editor.add-to-cart.isOneClickBuy.title": "Activar compra con un solo clic",
+  "admin/editor.add-to-cart.isOneClickBuy.description": "Si necesita activar la compra con un solo clic, establezca como verdadero; de lo contrario, como falso"
 }

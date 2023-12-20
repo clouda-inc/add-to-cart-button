@@ -9,5 +9,7 @@
   "admin/editor.add-to-cart.text.title": "Tombol teks",
   "admin/editor.add-to-cart.text.description": "Teks tombol, mis. \"Tambahkan ke troli\"",
   "admin/editor.add-to-cart.text-unavailable.title": "Teks tombol tidak tersedia",
-  "admin/editor.add-to-cart.text-unavailable.description": "Teks tombol saat produk tidak tersedia."
+  "admin/editor.add-to-cart.text-unavailable.description": "Teks tombol saat produk tidak tersedia.",
+  "admin/editor.add-to-cart.isOneClickBuy.title": "Aktifkan Beli dengan Sekali Klik",
+  "admin/editor.add-to-cart.isOneClickBuy.description": "Jika Anda perlu mengaktifkan pembelian dengan sekali klik, atur sebagai benar; sebaliknya, atur sebagai salah"
 }

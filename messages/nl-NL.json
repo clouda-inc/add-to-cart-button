@@ -9,5 +9,7 @@
   "admin/editor.add-to-cart.text.title": "Knoptekst",
   "admin/editor.add-to-cart.text.description": "Tekst van de knop, bijv. \"Toevoegen aan winkelwagent",
   "admin/editor.add-to-cart.text-unavailable.title": "Knoptekst niet beschikbaar",
-  "admin/editor.add-to-cart.text-unavailable.description": "Knoptekst wanneer het product niet beschikbaar is."
+  "admin/editor.add-to-cart.text-unavailable.description": "Knoptekst wanneer het product niet beschikbaar is.",
+  "admin/editor.add-to-cart.isOneClickBuy.title": "Activeer één-klik aankoop",
+  "admin/editor.add-to-cart.isOneClickBuy.description": "Als u één-klik aankoop wilt activeren, stel dan in op waar; anders op onwaar"
 }
